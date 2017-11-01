@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+button {
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    max-width: 600px;
+    margin: 0 auto;
+    background: #309488;
+    padding: 20px;
+}
